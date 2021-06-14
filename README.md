@@ -1,5 +1,5 @@
 # mongoreact
-This is a simple React JS application. I just used a couple of tech here like spring boot, mongoDb,React JS and Swagger 2.
+This is a simple React JS application. I just used a couple of techs here like spring boot, mongoDb,React JS and Swagger 2.
 
 ** I used a mongoDB  with docker container. Check it out application.properties and docker.compose-yaml files. When your containers running, run your application and then go to
 localhost:8081 for mongo express.It allows you to GUI  and you can check your data , write your query ...
